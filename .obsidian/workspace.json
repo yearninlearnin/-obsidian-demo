@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/Git test.md",
+                "file": "templates/Zettel template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git test"
+              "title": "Zettel template"
             }
           }
         ],
@@ -237,13 +237,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "538de57596918fcd",
   "lastOpenFiles": [
-    "0 Inbox/Hello world.md",
+    "4 Archive/My test note.md",
+    "templates/Zettel template.md",
+    "4 Archive/Welcome.md",
+    "4 Archive/PARA.md",
     "0 Inbox/Git test.md",
+    "templates",
+    "0 Inbox/Hello world.md",
     "3 Resources/DevOps/Mischa's Note taking course.md",
     "3 Resources/DevOps/Terraform course.md",
     "0 Inbox/Random idea.md",
@@ -259,14 +265,10 @@
     "0 Inbox/Untitled",
     "1 Projects/Holiday 2025/Planning Holiday 2025.md",
     "1 Projects/Holiday 2025",
-    "Untitled",
-    "My test note.md",
-    "PARA.md",
     "4 Archive",
     "3 Resources",
     "2 Areas",
     "1 Projects",
-    "0 Inbox",
-    "Welcome.md"
+    "0 Inbox"
   ]
 }
