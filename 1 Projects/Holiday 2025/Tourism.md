@@ -1,0 +1,1 @@
+Japan is a nice place to go with the way the yen is running.
