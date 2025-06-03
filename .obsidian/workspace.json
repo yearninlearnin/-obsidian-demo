@@ -39,14 +39,10 @@
             "id": "5d2e8b119511faf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My test note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "My test note"
+              "title": "New tab"
             }
           },
           {
@@ -92,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,16 +237,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "538de57596918fcd",
+  "active": "5d2e8b119511faf2",
   "lastOpenFiles": [
-    "4 Archive/My test note.md",
+    "3 Resources/DevOps/Mischa's Note taking course.md",
+    "0 Inbox/Hello world.md",
     "templates/Zettel template.md",
+    "4 Archive/My test note.md",
     "4 Archive/Welcome.md",
     "4 Archive/PARA.md",
     "0 Inbox/Git test.md",
     "templates",
-    "0 Inbox/Hello world.md",
-    "3 Resources/DevOps/Mischa's Note taking course.md",
     "3 Resources/DevOps/Terraform course.md",
     "0 Inbox/Random idea.md",
     "0 Inbox/Test inbox note.md",
